@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "chain_of_responsibillity/1.0.0": {
+        "runtime": {
+          "chain_of_responsibillity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chain_of_responsibillity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\marle\Documents\git\SOLabo\SO_2022\oplossingen\projecten\Reeks02Project\CoderingGui_Voor_student\CodeerZin\bin\Debug\CodeerZin.exe.config
+C:\Users\marle\Documents\git\SOLabo\SO_2022\oplossingen\projecten\Reeks02Project\CoderingGui_Voor_student\CodeerZin\bin\Debug\CodeerZin.exe
+C:\Users\marle\Documents\git\SOLabo\SO_2022\oplossingen\projecten\Reeks02Project\CoderingGui_Voor_student\CodeerZin\bin\Debug\CodeerZin.pdb
+C:\Users\marle\Documents\git\SOLabo\SO_2022\oplossingen\projecten\Reeks02Project\CoderingGui_Voor_student\CodeerZin\bin\Debug\Coderingen.dll
+C:\Users\marle\Documents\git\SOLabo\SO_2022\oplossingen\projecten\Reeks02Project\CoderingGui_Voor_student\CodeerZin\bin\Debug\Coderingen.pdb
+C:\Users\marle\Documents\git\SOLabo\SO_2022\oplossingen\projecten\Reeks02Project\CoderingGui_Voor_student\CodeerZin\obj\Debug\CodeerZin.csproj.AssemblyReference.cache
+C:\Users\marle\Documents\git\SOLabo\SO_2022\oplossingen\projecten\Reeks02Project\CoderingGui_Voor_student\CodeerZin\obj\Debug\CodeerZin.csproj.SuggestedBindingRedirects.cache
+C:\Users\marle\Documents\git\SOLabo\SO_2022\oplossingen\projecten\Reeks02Project\CoderingGui_Voor_student\CodeerZin\obj\Debug\CodeerZin.csproj.CoreCompileInputs.cache
+C:\Users\marle\Documents\git\SOLabo\SO_2022\oplossingen\projecten\Reeks02Project\CoderingGui_Voor_student\CodeerZin\obj\Debug\CodeerZin.csproj.CopyComplete
+C:\Users\marle\Documents\git\SOLabo\SO_2022\oplossingen\projecten\Reeks02Project\CoderingGui_Voor_student\CodeerZin\obj\Debug\CodeerZin.exe
+C:\Users\marle\Documents\git\SOLabo\SO_2022\oplossingen\projecten\Reeks02Project\CoderingGui_Voor_student\CodeerZin\obj\Debug\CodeerZin.pdb

@@ -1,0 +1,15 @@
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\bin\Debug\net6.0\visitor.exe
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\bin\Debug\net6.0\visitor.deps.json
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\bin\Debug\net6.0\visitor.runtimeconfig.json
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\bin\Debug\net6.0\visitor.dll
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\bin\Debug\net6.0\visitor.pdb
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\obj\Debug\net6.0\visitor.csproj.AssemblyReference.cache
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\obj\Debug\net6.0\visitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\obj\Debug\net6.0\visitor.AssemblyInfoInputs.cache
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\obj\Debug\net6.0\visitor.AssemblyInfo.cs
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\obj\Debug\net6.0\visitor.csproj.CoreCompileInputs.cache
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\obj\Debug\net6.0\visitor.dll
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\obj\Debug\net6.0\refint\visitor.dll
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\obj\Debug\net6.0\visitor.pdb
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\obj\Debug\net6.0\visitor.genruntimeconfig.cache
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\VISITOR\visitor\visitor\obj\Debug\net6.0\ref\visitor.dll

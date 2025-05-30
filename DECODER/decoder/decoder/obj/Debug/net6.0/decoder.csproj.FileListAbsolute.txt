@@ -1,0 +1,15 @@
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\bin\Debug\net6.0\decoder.exe
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\bin\Debug\net6.0\decoder.deps.json
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\bin\Debug\net6.0\decoder.runtimeconfig.json
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\bin\Debug\net6.0\decoder.dll
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\bin\Debug\net6.0\decoder.pdb
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\obj\Debug\net6.0\decoder.csproj.AssemblyReference.cache
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\obj\Debug\net6.0\decoder.GeneratedMSBuildEditorConfig.editorconfig
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\obj\Debug\net6.0\decoder.AssemblyInfoInputs.cache
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\obj\Debug\net6.0\decoder.AssemblyInfo.cs
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\obj\Debug\net6.0\decoder.csproj.CoreCompileInputs.cache
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\obj\Debug\net6.0\decoder.dll
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\obj\Debug\net6.0\refint\decoder.dll
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\obj\Debug\net6.0\decoder.pdb
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\obj\Debug\net6.0\decoder.genruntimeconfig.cache
+D:\SIBREN\SCHOOL\SCHAKELJAAR\BEKWAAMHEIDSTEST\softwareontwikkeling\softwareontwikkeling\Sibren\DECODER\decoder\decoder\obj\Debug\net6.0\ref\decoder.dll
